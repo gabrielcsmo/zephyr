@@ -1,0 +1,6 @@
+board:
+  name: ev14c17a
+  full_name: IGAT Evaluation Kit
+  vendor: atmel
+  socs:
+    - name: same51j20a
